@@ -1,0 +1,8 @@
+era,years,team_count,avg_runs_per_game,top_team,top_team_win_pct,dominant_franchise,years_with_championship,defining_features
+Pre-Modern,1876-1899,8-12,3.4,Pittsburgh Pirates,.580,Pittsburgh Pirates,1876-1899 (Braves alumni),NL founded 1876 with 8 teams; 60-154 game seasons; no pitcher's mound; underhand pitching
+Dead Ball,1900-1919,8,3.4,Pittsburgh Pirates,.580,Pittsburgh Pirates,1903-1919 (2 pennants + 1 WS),First World Series 1903; pitching dominant; stolen base era
+Live Ball,1920-1945,8,4.7,St. Louis Cardinals,.558,St. Louis Cardinals,1926-1946 (4 pennants + 3 WS),Home run surge (Ruth, Foxx); integration begins 1947; night games introduced 1935
+Post-War I,1946-1968,10-12,4.3,Los Angeles Dodgers,.580,Brooklyn/LA Dodgers,1947-1968 (4 pennants + 3 WS),Dodgers dominance; Braves move to Milwaukee (1953); Pirates resurgence (1960); expansion era begins
+Modern Expansion,1969-1992,12,4.5,Cincinnati Reds,.610,Cincinnati Reds,1969-1992 (5 pennants + 2 WS),2-division format begins (1969); Big Red Machine; two expansion waves (1962, 1969); free agency (1976)
+Divisional,1993-2019,14-15,4.7,Atlanta Braves,.560,Atlanta Braves,1993-2019 (6 pennants + 4 WS by Braves),3-division format (1994); Wild Card introduced; Braves 14-year dynasty (1991-2005); Rockies/Padres added
+COVID-Modern,2020-2024,15,4.5,Los Angeles Dodgers,.650,Los Angeles Dodgers,2020-2024 (3 pennants + 2 WS),60-game 2020 season; universal DH (2022); 12-team playoff (2022); pitch clock; extra-inning ghost runner
