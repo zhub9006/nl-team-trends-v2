@@ -1,0 +1,151 @@
+Year,NL_Champion,Champion_Record,Champion_WinPct,2nd_Place_Team,2nd_Place_Record,WS_Winner,WS_Loser,WS_Result,Era,Games_In_Season
+1876,Chicago White Stockings,52-14,0.788,Boston Red Caps,70-37,N/A,N/A,N/A,Founding Era,70
+1877,Boston Red Caps,42-18,0.700,Chicago White Stockings,52-14,N/A,N/A,N/A,Founding Era,60
+1878,Boston Red Caps,41-19,0.683,Indianapolis Blues,24-36,N/A,N/A,N/A,Founding Era,60
+1879,Providence Grays,59-25,0.702,Chicago White Stockings,46-31,N/A,N/A,N/A,Founding Era,84
+1880,Chicago White Stockings,67-17,0.798,Providence Grays,52-29,N/A,N/A,N/A,Founding Era,84
+1881,Chicago White Stockings,56-28,0.667,Providence Grays,52-28,N/A,N/A,N/A,Founding Era,84
+1882,Chicago White Stockings,55-16,0.775,Providence Grays,51-21,N/A,N/A,N/A,Founding Era,84
+1883,Providence Grays,58-26,0.690,Boston Beaneaters,63-35,N/A,N/A,N/A,Founding Era,98
+1884,Providence Grays,84-28,0.750,New York Metropolitans,75-32,N/A,N/A,N/A,Founding Era,112
+1885,Chicago White Stockings,87-25,0.777,St. Louis Maroons,79-23,N/A,N/A,N/A,Founding Era,112
+1886,Chicago White Stockings,90-34,0.726,Detroit Wolverines,85-27,N/A,N/A,N/A,Founding Era,126
+1887,Detroit Wolverines,79-45,0.637,Chicago White Stockings,71-50,N/A,N/A,N/A,Founding Era,126
+1888,New York Giants,84-47,0.641,Boston Beaneaters,81-48,N/A,N/A,N/A,Founding Era,136
+1889,New York Giants,83-43,0.659,Chicago White Stockings,67-65,N/A,N/A,N/A,Founding Era,136
+1890,Boston Beaneaters,76-57,0.571,Brooklyn Ward's Wonders,76-60,N/A,N/A,N/A,Founding Era,132
+1891,Boston Beaneaters,87-51,0.630,Chicago Colts,82-58,N/A,N/A,N/A,Founding Era,138
+1892,Boston Beaneaters,102-48,0.680,Brooklyn Grooms,95-59,N/A,N/A,N/A,Founding Era,150
+1893,Boston Beaneaters,86-43,0.667,Pittsburgh Pirates,81-60,N/A,N/A,N/A,Dead Ball Era,130
+1894,Baltimore Orioles,89-39,0.695,Cleveland Spiders,84-55,N/A,N/A,N/A,Dead Ball Era,132
+1895,Baltimore Orioles,87-43,0.669,Cleveland Spiders,84-54,N/A,N/A,N/A,Dead Ball Era,132
+1896,Baltimore Orioles,90-39,0.698,Cincinnati Reds,77-55,N/A,N/A,N/A,Dead Ball Era,132
+1897,Boston Beaneaters,93-42,0.689,Baltimore Orioles,90-38,N/A,N/A,N/A,Dead Ball Era,132
+1898,Boston Beaneaters,102-47,0.685,Baltimore Orioles,96-53,N/A,N/A,N/A,Dead Ball Era,154
+1899,Boston Beaneaters,102-47,0.685,Brooklyn Superbas,101-47,N/A,N/A,N/A,Dead Ball Era,154
+1900,Brooklyn Superbas,82-54,0.603,Cincinnati Reds,82-53,N/A,N/A,N/A,Dead Ball Era,138
+1901,Pittsburgh Pirates,90-49,0.647,Philadelphia Phillies,83-57,N/A,N/A,N/A,Dead Ball Era,138
+1902,Pittsburgh Pirates,103-36,0.741,Brooklyn Superbas,75-63,N/A,N/A,N/A,Dead Ball Era,145
+1903,Boston Beaneaters,91-42,0.686,Pittsburgh Pirates,91-49,Boston Americans,Pittsburgh Pirates,5-3,Dead Ball Era,141
+1904,New York Giants,106-47,0.693,Pittsburgh Pirates,96-56,N/A,N/A,N/A,Dead Ball Era,154
+1905,New York Giants,105-48,0.686,Brooklyn Superbas,98-55,N/A,N/A,N/A,Dead Ball Era,154
+1906,Chicago Cubs,116-36,0.763,New York Giants,96-56,N/A,N/A,N/A,Dead Ball Era,154
+1907,Chicago Cubs,107-45,0.704,Pittsburgh Pirates,91-63,N/A,N/A,N/A,Dead Ball Era,154
+1908,Chicago Cubs,104-46,0.693,Pittsburgh Pirates,97-56,N/A,N/A,N/A,Dead Ball Era,154
+1909,Pittsburgh Pirates,110-42,0.729,Chicago Cubs,104-49,N/A,N/A,N/A,Dead Ball Era,154
+1910,Chicago Cubs,104-50,0.675,New York Giants,91-58,N/A,N/A,N/A,Dead Ball Era,154
+1911,New York Giants,99-54,0.646,Chicago Cubs,92-59,N/A,N/A,N/A,Dead Ball Era,154
+1912,New York Giants,103-47,0.687,Pittsburgh Pirates,93-58,N/A,N/A,N/A,Dead Ball Era,154
+1913,New York Giants,101-51,0.664,Philadelphia Phillies,88-63,N/A,N/A,N/A,Dead Ball Era,154
+1914,Boston Braves,94-59,0.612,New York Giants,84-69,N/A,N/A,N/A,Dead Ball Era,154
+1915,Philadelphia Phillies,90-62,0.592,Boston Braves,83-69,N/A,N/A,N/A,Dead Ball Era,154
+1916,Brooklyn Robins,94-59,0.612,Chicago Cubs,67-86,N/A,N/A,N/A,Dead Ball Era,154
+1917,New York Giants,98-56,0.636,Boston Braves,72-81,N/A,N/A,N/A,Dead Ball Era,154
+1918,Brooklyn Robins,57-44,0.564,Chicago Cubs,84-45,N/A,N/A,N/A,World War I Era,130
+1919,Cincinnati Reds,96-44,0.686,New York Giants,87-53,N/A,N/A,N/A,Dead Ball Era,140
+1920,Brooklyn Robins,93-61,0.604,Cincinnati Reds,82-71,N/A,N/A,N/A,Live Ball Era,154
+1921,New York Giants,94-59,0.612,St. Louis Cardinals,87-66,N/A,N/A,N/A,Live Ball Era,154
+1922,New York Giants,93-61,0.604,Cincinnati Reds,86-68,N/A,N/A,N/A,Live Ball Era,154
+1923,New York Giants,95-58,0.619,Pittsburgh Pirates,87-67,N/A,N/A,N/A,Live Ball Era,155
+1924,Pittsburgh Pirates,90-63,0.588,New York Giants,93-60,N/A,N/A,N/A,Live Ball Era,155
+1925,Pittsburgh Pirates,95-58,0.621,New York Giants,86-67,N/A,N/A,N/A,Live Ball Era,155
+1926,St. Louis Cardinals,89-65,0.578,Chicago Cubs,88-66,N/A,N/A,N/A,Live Ball Era,155
+1927,Pittsburgh Pirates,94-60,0.610,Chicago Cubs,85-68,N/A,N/A,N/A,Live Ball Era,155
+1928,St. Louis Cardinals,95-59,0.616,Chicago Cubs,91-63,N/A,N/A,N/A,Live Ball Era,155
+1929,Chicago Cubs,98-56,0.636,Pittsburgh Pirates,88-65,N/A,N/A,N/A,Live Ball Era,154
+1930,St. Louis Cardinals,92-62,0.597,Chicago Cubs,90-64,N/A,N/A,N/A,Live Ball Era,154
+1931,St. Louis Cardinals,101-53,0.656,Chicago Cubs,84-70,N/A,N/A,N/A,Live Ball Era,154
+1932,Chicago Cubs,90-64,0.584,Pittsburgh Pirates,86-67,N/A,N/A,N/A,Live Ball Era,154
+1933,New York Giants,91-61,0.599,Pittsburgh Pirates,80-73,N/A,N/A,N/A,Live Ball Era,155
+1934,St. Louis Cardinals,95-58,0.619,Chicago Cubs,86-65,N/A,N/A,N/A,Live Ball Era,154
+1935,St. Louis Cardinals,96-58,0.623,Chicago Cubs,88-65,N/A,N/A,N/A,Live Ball Era,154
+1936,St. Louis Cardinals,87-67,0.566,Chicago Cubs,87-67,N/A,N/A,N/A,Live Ball Era,154
+1937,New York Giants,95-58,0.619,Chicago Cubs,86-68,N/A,N/A,N/A,Live Ball Era,154
+1938,Chicago Cubs,89-63,0.586,Pittsburgh Pirates,86-64,N/A,N/A,N/A,Live Ball Era,154
+1939,Cincinnati Reds,97-57,0.630,St. Louis Cardinals,90-64,N/A,N/A,N/A,Live Ball Era,154
+1940,Cincinnati Reds,100-54,0.649,St. Louis Cardinals,90-64,N/A,N/A,N/A,Live Ball Era,154
+1941,Brooklyn Dodgers,100-54,0.649,St. Louis Cardinals,97-56,N/A,N/A,N/A,World War II Era,154
+1942,St. Louis Cardinals,106-48,0.688,Brooklyn Dodgers,104-50,N/A,N/A,N/A,World War II Era,154
+1943,St. Louis Cardinals,105-49,0.682,Cincinnati Reds,87-67,N/A,N/A,N/A,World War II Era,154
+1944,St. Louis Cardinals,105-49,0.682,Pittsburgh Pirates,90-63,N/A,N/A,N/A,World War II Era,154
+1945,Chicago Cubs,98-56,0.636,Pittsburgh Pirates,82-72,N/A,N/A,N/A,World War II Era,154
+1946,St. Louis Cardinals,100-54,0.649,Brooklyn Dodgers,96-57,N/A,N/A,N/A,Post-War Era,154
+1947,Brooklyn Dodgers,94-60,0.610,St. Louis Cardinals,89-65,N/A,N/A,N/A,Post-War Era,154
+1948,Boston Braves,91-62,0.595,St. Louis Cardinals,85-69,N/A,N/A,N/A,Post-War Era,154
+1949,Brooklyn Dodgers,97-57,0.630,St. Louis Cardinals,96-58,N/A,N/A,N/A,Post-War Era,154
+1950,Boston Braves,83-71,0.539,New York Giants,86-68,N/A,N/A,N/A,Post-War Era,154
+1951,New York Giants,98-59,0.622,St. Louis Cardinals,81-73,N/A,N/A,N/A,Post-War Era,154
+1952,Brooklyn Dodgers,96-57,0.627,St. Louis Cardinals,88-66,N/A,N/A,N/A,Post-War Era,154
+1953,Brooklyn Dodgers,105-49,0.682,Milwaukee Braves,92-62,N/A,N/A,N/A,Post-War Era,154
+1954,New York Giants,97-57,0.630,Brooklyn Dodgers,92-62,N/A,N/A,N/A,Post-War Era,154
+1955,Brooklyn Dodgers,98-55,0.641,Milwaukee Braves,85-69,N/A,N/A,N/A,Post-War Era,154
+1956,Brooklyn Dodgers,93-61,0.604,Milwaukee Braves,92-62,N/A,N/A,N/A,Post-War Era,154
+1957,Milwaukee Braves,95-59,0.617,St. Louis Cardinals,82-72,N/A,N/A,N/A,Post-War Era,154
+1958,Milwaukee Braves,92-62,0.597,Pittsburgh Pirates,84-70,N/A,N/A,N/A,Post-War Era,154
+1959,Los Angeles Dodgers,88-68,0.568,Milwaukee Braves,86-70,N/A,N/A,N/A,Post-War Era,154
+1960,Pittsburgh Pirates,95-59,0.617,Milwaukee Braves,88-66,N/A,N/A,N/A,Expansion Era,154
+1961,Cincinnati Reds,93-61,0.604,Los Angeles Dodgers,89-65,N/A,N/A,N/A,Expansion Era,162
+1962,San Francisco Giants,103-62,0.623,Los Angeles Dodgers,102-63,N/A,N/A,N/A,Expansion Era,163
+1963,Los Angeles Dodgers,99-63,0.611,St. Louis Cardinals,89-73,N/A,N/A,N/A,Expansion Era,162
+1964,St. Louis Cardinals,93-69,0.574,Philadelphia Phillies,92-70,N/A,N/A,N/A,Expansion Era,162
+1965,Los Angeles Dodgers,99-63,0.611,San Francisco Giants,95-67,N/A,N/A,N/A,Expansion Era,163
+1966,Los Angeles Dodgers,95-67,0.586,San Francisco Giants,91-71,N/A,N/A,N/A,Expansion Era,162
+1967,St. Louis Cardinals,101-60,0.627,San Francisco Giants,91-71,N/A,N/A,N/A,Expansion Era,162
+1968,St. Louis Cardinals,97-65,0.599,San Francisco Giants,88-74,N/A,N/A,N/A,Expansion Era,162
+1969,New York Mets,100-62,0.617,Chicago Cubs,92-70,N/A,N/A,N/A,Expansion Era,163
+1970,Cincinnati Reds,102-60,0.630,Pittsburgh Pirates,89-73,N/A,N/A,N/A,1970-1985,162
+1971,Pittsburgh Pirates,97-65,0.602,San Francisco Giants,90-72,N/A,N/A,N/A,1970-1985,163
+1972,Cincinnati Reds,95-59,0.617,Pittsburgh Pirates,88-74,N/A,N/A,N/A,1970-1985,155
+1973,New York Mets,82-79,0.509,Cincinnati Reds,99-64,N/A,N/A,N/A,1970-1985,162
+1974,Pittsburgh Pirates,88-74,0.553,Los Angeles Dodgers,90-74,N/A,N/A,N/A,1970-1985,162
+1975,Pittsburgh Pirates,92-69,0.537,Philadelphia Phillies,101-61,Cincinnati Reds,Boston Red Sox,4-3,1970-1985,162
+1976,Cincinnati Reds,102-60,0.630,Philadelphia Phillies,101-61,Cincinnati Reds,New York Yankees,4-0,1970-1985,163
+1977,Philadelphia Phillies,101-61,0.624,Pittsburgh Pirates,96-59,New York Yankees,Los Angeles Dodgers,4-2,1970-1985,161
+1978,Philadelphia Phillies,90-72,0.556,Pittsburgh Pirates,85-77,New York Yankees,Los Angeles Dodgers,4-2,1970-1985,161
+1979,Cincinnati Reds,90-71,0.560,Houston Astros,89-73,Pittsburgh Pirates,Baltimore Orioles,4-3,1970-1985,163
+1980,Philadelphia Phillies,91-71,0.561,Houston Astros,86-75,Philadelphia Phillies,Kansas City Royals,4-2,1981-1985,162
+1981,Los Angeles Dodgers,63-45,0.583,Montreal Expos,64-45,Los Angeles Dodgers,New York Yankees,4-2,1981-1985,106
+1982,St. Louis Cardinals,92-70,0.567,Atlanta Braves,89-73,St. Louis Cardinals,Milwaukee Brewers,4-3,1981-1985,162
+1983,Philadelphia Phillies,90-72,0.556,Pittsburgh Pirates,84-78,Baltimore Orioles,Philadelphia Phillies,4-1,1981-1985,162
+1984,Chicago Cubs,96-66,0.593,San Diego Padres,89-73,Detroit Tigers,San Diego Padres,3-2,1981-1985,163
+1985,St. Louis Cardinals,101-61,0.621,Los Angeles Dodgers,95-67,Kansas City Royals,St. Louis Cardinals,4-3,1986-2016,162
+1986,New York Mets,108-54,0.667,Philadelphia Phillies,86-75,New York Mets,Boston Red Sox,4-3,1986-2016,163
+1987,St. Louis Cardinals,95-67,0.587,Pittsburgh Pirates,80-82,Minnesota Twins,St. Louis Cardinals,4-3,1986-2016,162
+1988,Los Angeles Dodgers,94-67,0.581,Cincinnati Reds,86-76,Los Angeles Dodgers,Oakland Athletics,4-1,1986-2016,162
+1989,Chicago Cubs,93-69,0.577,San Francisco Giants,91-71,Oakland Athletics,San Francisco Giants,4-0,1986-2016,162
+1990,Cincinnati Reds,91-71,0.562,Pittsburgh Pirates,95-67,Cincinnati Reds,Oakland Athletics,4-0,1990-2016,162
+1991,Atlanta Braves,94-68,0.581,Pittsburgh Pirates,98-64,Minnesota Twins,Atlanta Braves,4-3,1990-2016,162
+1992,Montreal Expos,87-75,0.537,Atlanta Braves,98-64,Toronto Blue Jays,Atlanta Braves,4-2,1990-2016,162
+1993,Philadelphia Phillies,97-65,0.598,Montreal Expos,94-68,Toronto Blue Jays,Philadelphia Phillies,4-2,1990-2016,162
+1994,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Season cancelled by strike,1990-2016,111
+1995,Atlanta Braves,90-54,0.625,Los Angeles Dodgers,78-66,Atlanta Braves,Cleveland Indians,4-2,1990-2016,144
+1996,Atlanta Braves,96-66,0.593,St. Louis Cardinals,88-74,New York Yankees,Atlanta Braves,4-2,1990-2016,162
+1997,Florida Marlins,92-70,0.568,San Francisco Giants,90-72,Florida Marlins,Cleveland Indians,4-3,1990-2016,162
+1998,San Francisco Giants,89-74,0.549,Houston Astros,102-60,New York Yankees,San Diego Padres,3-0,1990-2016,162
+1999,Atlanta Braves,103-59,0.635,New York Mets,97-66,New York Yankees,Atlanta Braves,4-0,1990-2016,161
+2000,St. Louis Cardinals,95-67,0.587,Atlanta Braves,95-67,New York Yankees,New York Mets,4-1,1990-2016,161
+2001,Arizona Diamondbacks,92-70,0.568,Houston Astros,86-76,Arizona Diamondbacks,New York Yankees,4-3,1990-2016,162
+2002,San Francisco Giants,95-66,0.590,Atlanta Braves,101-59,Anaheim Angels,San Francisco Giants,4-3,1990-2016,163
+2003,Chicago Cubs,88-74,0.543,Florida Marlins,91-71,Florida Marlins,New York Yankees,4-2,1990-2016,162
+2004,St. Louis Cardinals,105-57,0.647,Atlanta Braves,96-66,Boston Red Sox,St. Louis Cardinals,4-0,1990-2016,163
+2005,Atlanta Braves,90-72,0.556,Houston Astros,88-74,Chicago White Sox,Houston Astros,4-0,1990-2016,162
+2006,St. Louis Cardinals,83-78,0.516,New York Mets,97-65,St. Louis Cardinals,Detroit Tigers,4-1,2006-2016,162
+2007,Colorado Rockies,97-65,0.599,Arizona Diamondbacks,90-72,Boston Red Sox,Colorado Rockies,4-0,2006-2016,163
+2008,Philadelphia Phillies,92-70,0.568,Milwaukee Brewers,90-72,Tampa Bay Rays,Philadelphia Phillies,4-1,2006-2016,162
+2009,Philadelphia Phillies,93-69,0.576,St. Louis Cardinals,91-71,New York Yankees,Philadelphia Phillies,4-2,2006-2016,162
+2010,San Francisco Giants,92-70,0.568,Atlanta Braves,91-71,San Francisco Giants,Texas Rangers,4-1,2006-2016,162
+2011,St. Louis Cardinals,90-72,0.556,Milwaukee Brewers,96-66,St. Louis Cardinals,Texas Rangers,4-3,2006-2016,162
+2012,San Francisco Giants,94-68,0.580,Cincinnati Reds,97-65,San Francisco Giants,Detroit Tigers,4-0,2006-2016,163
+2013,St. Louis Cardinals,97-65,0.598,Atlanta Braves,94-68,Boston Red Sox,St. Louis Cardinals,4-2,2006-2016,162
+2014,St. Louis Cardinals,90-72,0.556,Washington Nationals,93-69,Kansas City Royals,San Francisco Giants,4-3,2006-2016,162
+2015,St. Louis Cardinals,100-62,0.617,New York Mets,90-72,Kansas City Royals,New York Mets,4-1,2006-2016,162
+2016,Chicago Cubs,103-58,0.640,Washington Nationals,95-67,Chicago Cubs,Cleveland Indians,4-3,2006-2016,162
+2017,Los Angeles Dodgers,104-58,0.642,Washington Nationals,97-65,Houston Astros,Los Angeles Dodgers,4-3,2017-Present,162
+2018,Los Angeles Dodgers,92-71,0.564,Atlanta Braves,90-72,Boston Red Sox,Los Angeles Dodgers,4-1,2017-Present,162
+2019,Los Angeles Dodgers,106-56,0.642,St. Louis Cardinals,91-71,Washington Nationals,Houston Astros,4-3,2017-Present,162
+2020,Los Angeles Dodgers,43-17,0.717,Atlanta Braves,,,,Los Angeles Dodgers,Tampa Bay Rays,4-2,2017-Present,60
+2021,Atlanta Braves,88-73,0.547,Los Angeles Dodgers,106-56,Atlanta Braves,Houston Astros,4-2,2017-Present,161
+2022,Los Angeles Dodgers,111-51,0.685,Philadelphia Phillies,87-75,Houston Astros,Philadelphia Phillies,4-2,2017-Present,162
+2023,Atlanta Braves,104-58,0.642,Philadelphia Phillies,90-72,Texas Rangers,Arizona Diamondbacks,4-1,2017-Present,162
+2024,Los Angeles Dodgers,98-64,0.605,New York Mets,89-73,Los Angeles Dodgers,Toronto Blue Jays,4-3,2017-Present,162
+2025,Los Angeles Dodgers,100-62,0.617,Milwaukee Brewers,93-69,Los Angeles Dodgers,Toronto Blue Jays,4-3,2017-Present,162
